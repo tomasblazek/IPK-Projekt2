@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+
+chat_client
+*.zip
+
